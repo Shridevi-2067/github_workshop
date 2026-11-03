@@ -1,2 +1,8 @@
-hey this is siri
-hai hai
+#include<stdio.h>
+int main()
+{
+int n;
+printf("enter the number numbers:");
+scanf("%d",&n);
+return 0;
+}
